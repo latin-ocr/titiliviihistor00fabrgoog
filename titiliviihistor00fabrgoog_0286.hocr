@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviihistor00fabrgoog_0286.png"; bbox 0 0 2869 4730; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 831 353 2333 482">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 789 342 2333 491">
+     <span class='ocr_line' id='line_1_1' title="bbox 831 353 2333 482; baseline 0.001 -28.946"><span class='ocrx_word' id='word_1_1' title='bbox 831 391 985 453; x_wconf 73' lang='grc' dir='ltr'><strong>ιω.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1025 382 1264 458; x_wconf 65' lang='lat' dir='ltr'><strong>xxm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1302 383 1510 454; x_wconf 52' lang='lat' dir='ltr'><strong>off(</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1536 392 1636 453; x_wconf 77' lang='lat'><strong>29.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1668 393 1769 454; x_wconf 74' lang='lat' dir='ltr'><strong>zo.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1934 480 1936 482; x_wconf 6' lang='lat' dir='ltr'>q</span> <span class='ocrx_word' id='word_1_7' title='bbox 2175 408 2176 411; x_wconf 9' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2212 353 2333 456; x_wconf 70' lang='lat'><strong>27⁷</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 523 2499 635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 523 2499 635">
+     <span class='ocr_line' id='line_1_2' title="bbox 208 523 2499 635; baseline -0.004 -14"><span class='ocrx_word' id='word_1_9' title='bbox 208 620 211 621; x_wconf 10' lang='grc' dir='ltr'><em>γ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 261 548 421 631; x_wconf 70' lang='grc' dir='ltr'><strong>ειὶιιις</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 464 523 1501 635; x_wconf 44' lang='lat' dir='ltr'><strong>legatisque‘Syracusanbru&#39;mss‘nt</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1542 556 1616 616; x_wconf 78' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1660 555 1847 619; x_wconf 72' lang='lat' dir='ltr'><strong>caede</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1890 552 2166 635; x_wconf 59' lang='lat' dir='ltr'><strong>:sationis</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2208 532 2333 618; x_wconf 53' lang='lat' dir='ltr'><strong>Ro&#39;-</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2396 550 2410 621; x_wconf 76' lang='grc' dir='ltr'><strong>,ἴ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2483 531 2499 558; x_wconf 23' lang='grc' dir='ltr'><strong>’Χ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2826 1837 2831 2671">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2826 1837 2831 2671">
+     <span class='ocr_line' id='line_1_3' title="bbox 2826 1837 2831 2671; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 2826 1837 2831 2671; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2823 2895 2827 3656">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2823 2895 2827 3656">
+     <span class='ocr_line' id='line_1_4' title="bbox 2823 2895 2827 3656; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 2823 2895 2827 3656; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviihistor00fabrgoog_0191.png"; bbox 0 0 2869 4730; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 542 373 1775 477">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 542 373 1775 477">
+     <span class='ocr_line' id='line_1_1' title="bbox 542 373 1775 477; baseline 0 -15"><span class='ocrx_word' id='word_1_1' title='bbox 542 396 656 477; x_wconf 73' lang='lat'><strong>¹82</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 872 451 873 455; x_wconf 6' lang='grc' dir='ltr'>γ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1124 373 1144 471; x_wconf 78' lang='grc'><strong>“,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1204 401 1241 447; x_wconf 80' lang='lat'><strong>.1</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1310 397 1775 463; x_wconf 71' lang='lat' dir='ltr'>-Tmuvn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 463 556 2605 635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 463 556 2605 635">
+     <span class='ocr_line' id='line_1_2' title="bbox 463 556 2605 635; baseline -0.002 -5"><span class='ocrx_word' id='word_1_6' title='bbox 463 556 1384 635; x_wconf 46' lang='lat' dir='ltr'><strong>9⁴b10›in-speoiem‘consonsu</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1438 565 1513 627; x_wconf 79' lang='lat' dir='ltr'><strong>fit</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1566 568 1650 628; x_wconf 71' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1683 567 1924 627; x_wconf 65' lang='lat' dir='ltr'><strong>Poenos</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1977 565 2218 626; x_wconf 72' lang='lat' dir='ltr'><strong>deditio.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2302 566 2377 625; x_wconf 78' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2420 565 2605 626; x_wconf 76' lang='lat' dir='ltr'><strong>Atilio</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
